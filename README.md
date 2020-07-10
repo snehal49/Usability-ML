@@ -6,3 +6,5 @@ Dataset files:
 1) weather app images zip folder contains 205 weather app screenshots
 2) weather app annotated images zip folder contains 410 weather app annotated screenshots (with data augmentation)
 3) measures for weather app_410.npy contains usability measure values for 410 weather app annotated screenshots 
+
+Reference paper:
